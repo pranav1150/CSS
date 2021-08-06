@@ -1,0 +1,32 @@
+/****************************TAG SELECTORS*************************/
+body {
+  BACKGROUND-COLOR: #F5FDB0;
+}
+
+H1 {
+  color: RED;
+  FONT-SIZE: 50PX;
+}
+
+
+img:HOVER {
+  BACKGROUND-COLOR: #3A6351;
+}
+
+
+/**************************************CLASS SELECTORS*********************/
+.BACON{
+  background-color: RED;
+}
+
+.BROCCALI{
+  background-color: GREEN;
+}
+
+.CIRCULAR{
+  BORDER-RADIUS: 100%;
+}
+/***********************************ID SELECTORS******************************/
+#HEADING{
+  color: BLUE;
+}
